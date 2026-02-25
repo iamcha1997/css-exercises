@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+p:nth-child(odd) {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+div:file-selector-button {
+    color: blue;
+    font-size: 36px;
+}
