@@ -4,8 +4,8 @@ body {
 }
 
 
-.one,
-.three{
+.one, 
+.three {
   padding: 32px;
 }
 
@@ -28,6 +28,5 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  margin-left: auto;
 }
